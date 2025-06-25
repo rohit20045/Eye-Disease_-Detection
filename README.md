@@ -34,7 +34,8 @@ The model classifies images into the following 8 categories:
 
 ### Highlights
 - Utilizes the power of EfficientNetB6 for balancing performance and efficiency on high-resolution medical images.
-
-- Achieves high training accuracy with a moderate validation performance, indicating potential for further optimization or domain-specific fine-tuning.
-
 - Suitable for applications in medical image classification tasks or as a baseline for related work in ophthalmology AI.
+
+## Dataset 
+- Kaggle Link: https://www.kaggle.com/datasets/rohitrawat25/combined-fundus-images.
+- Dataset can be downloaded from the kaggle page.
