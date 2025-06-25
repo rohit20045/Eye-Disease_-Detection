@@ -38,4 +38,4 @@ The model classifies images into the following 8 categories:
 
 ## Dataset 
 - Kaggle Link: https://www.kaggle.com/datasets/rohitrawat25/combined-fundus-images.
-- Dataset can be downloaded from the kaggle page.
+- Dataset and output can be downloaded from the kaggle page.
