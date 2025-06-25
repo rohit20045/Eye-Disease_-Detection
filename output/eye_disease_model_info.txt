@@ -1,7 +1,0 @@
-Model: eye_diseases_model
-Dataset Size: 9,868 images
-Image Size: 512x512
-Architecture: EfficientNetB6
-Total Epochs: 50
-Best Val Accuracy: 0.7668
-Best Val Loss: 1.1706
